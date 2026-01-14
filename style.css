@@ -1,0 +1,8 @@
+body {
+    text-align: center;
+    background-color: white;
+}
+canvas {
+    background-color:rgb(237, 235, 235);
+    border: 2;
+}
